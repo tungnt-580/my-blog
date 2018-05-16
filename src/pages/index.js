@@ -46,10 +46,9 @@ const IndexPage = props => {
   return (
     <Wrapper>
       <Hero>
-        <h1>Hi.</h1>
+        <h1>Hello world.</h1>
         <p>
-          I&apos;m John Doe, a Senior UX Developer with five years of industry experience, specializing in developing
-          React apps with the best UX users can get.
+          I&apos;m Tung, a Fullstack Javascript Developer with 2 years of industry experience, specializing in React.js and Node.js.
         </p>
         <Link to="/contact">
           <Button big>
