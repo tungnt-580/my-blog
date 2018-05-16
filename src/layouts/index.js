@@ -70,8 +70,14 @@ const TemplateWrapper = props => {
         <SEO />
         {children()}
         <Footer>
-          &copy; 2018 by John Doe. All rights reserved. <br />
-          <a href="https://github.com/LeKoArts/gatsby-starter-minimal-blog">GitHub Repository</a>
+          &copy; 2018 by Tung Teng. All rights reserved. <br />
+          <a href="https://github.com/tungnt-580" target="_blank">
+            <img
+              src="/social/github/Github-Mark-32px.png"
+              alt="My Github profile"
+              style={{ margin: '10px' }}
+            />
+          </a>
         </Footer>;
       </div>
     </ThemeProvider>
