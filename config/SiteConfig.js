@@ -5,7 +5,7 @@ module.exports = {
   siteTitleAlt: 'Tung Teng\'s Blog', // Alternative Site title for SEO
   siteUrl: 'https://minimal-blog.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
-  siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
+  siteLogo: '/logos/logo.png', // Used for SEO and manifest
   siteBanner: '/social/banner.jpg',
   siteDescription: 'A blog site of Tung Teng for saving and sharing knowledges',
 
