@@ -48,7 +48,7 @@ const IndexPage = props => {
       <Hero>
         <h1>Hello world.</h1>
         <p>
-          I&apos;m Tung, a Fullstack Javascript Developer with 2 years of industry experience, specializing in React.js and Node.js.
+          I&apos;m Tung - A Fullstack Javascript Developer with 2 years of industry experience, specializing in React.js and Node.js.
         </p>
         <Link to="/contact">
           <Button big>

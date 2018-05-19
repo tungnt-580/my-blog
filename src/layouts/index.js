@@ -73,7 +73,7 @@ const TemplateWrapper = props => {
           &copy; 2018 by Tung Teng. All rights reserved. <br />
           <a href="https://github.com/tungnt-580" target="_blank">
             <img
-              src="/social/github/Github-Mark-32px.png"
+              src="/social/github/GitHub-Mark-32px.png"
               alt="My Github profile"
               style={{ margin: '10px' }}
             />
